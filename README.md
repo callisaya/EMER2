@@ -1,8 +1,8 @@
 # EMER2
 
 ---
-title: "PRACTICA 1"
-output: html_document
+Por: "Alfredo Callisaya Huanca"
+MATERIA: EMERGENTES II
 ---
 
 ```{r setup, include=FALSE}
