@@ -243,8 +243,7 @@ B) Jerarquía de HttpServletResponse
 
 
 
-![](https://slideplayer.es/slide/3414386/12/images/14/SERVLET%3A+Ejemplo+1+%28HolaFigura.class%29.jpg)
-
+![](https://1.bp.blogspot.com/-QY31hYr4stw/XUc2GonIigI/AAAAAAAAAqY/KPd717o1lCsbkjrDoeNxkzrRNh3mqpGkgCLcBGAs/s400/AS.jpg)
 
 
 **Por: ALFREDO CALLISAYA HUANCA - MATERIA EMERGENTES II**
